@@ -5,7 +5,7 @@
 ## 项目结构
 
 ```
-simple-blockchain/
+nodejs-blockchain/
 ├── src/                    # 后端核心代码
 │   └── core/
 │       ├── block.js        # 区块类

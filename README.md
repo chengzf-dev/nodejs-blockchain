@@ -1,4 +1,4 @@
-# Simple Blockchain
+# NodeJs Blockchain
 
 一个基于 Node.js 和 React 的简单区块链应用，实现了基本的区块链功能包括钱包管理、交易处理、挖矿和区块链浏览。
 
@@ -65,7 +65,7 @@ simple-blockchain/
 1. **克隆项目**
    ```bash
    git clone <repository-url>
-   cd simple-blockchain
+   cd nodejs-blockchain
    ```
 
 2. **安装后端依赖**
@@ -193,7 +193,7 @@ simple-blockchain/
 
 ## 许可证
 
-ISC License
+MIT License
 
 ## 作者
 
